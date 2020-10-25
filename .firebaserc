@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "sql-demos-9e717": {
+      "hosting": {
+        "firechat": [
+          "sql-demos-9e717"
+        ]
+      }
+    }
+  }
+}
